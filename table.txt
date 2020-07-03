@@ -1,0 +1,14 @@
+Bob 1 0
+Petya 2 1
+Anna 1 1
+oleg 0 0
+Bob 3 0
+Bob 3 0
+Bob 4 1
+ABCDEFG 2 0
+ggg 3 0
+bob 1 0
+iXtreme3 1 0
+Ivan 1 0
+Bob 1 0
+bob 2 0
